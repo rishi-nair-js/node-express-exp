@@ -1,0 +1,23 @@
+{
+  "name": "travel",
+  "version": "0.0.1",
+  "description": "travel site",
+  "main": "medowlark-handel.js",
+  "scripts": {
+    "test": "medow"
+  },
+  "repository": {
+    "type": "git",
+    "url": "medow"
+  },
+  "keywords": [
+    "medow"
+  ],
+  "author": "Rishi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "express3-handlebars": "^0.5.2"
+  }
+}
